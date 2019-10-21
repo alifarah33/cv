@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Ali's Personal Site</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="image/ali.jpg" alt="Farah Ali head photo"></td>
+      <td>
+        <h1>Farah A Ali</h1>
+        <p><em>Junior Web Developer</em></p>
+        <p>I am experienced Business analyst and risk manager with strong background in data analyst and customer service skills.</p>
+        <p>i am self taught junior Front end Developer with interest in becoming full stack Developer</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>Bachelor of science,Economic</li>
+    <li>May, 2017</li>
+    <li>College of Liberal Arts and Science</li>
+    <li><a href="https://thecollege.asu.edu/" target="_blank">Arizona State University</a></li>
+  </ul>
+  <ul>
+    <li>Certificate of Database Development</li>
+    <li>December, 2018</li>
+    <li><a href="https://www.scottsdalecc.edu/" target="_blank">Scottsdale Community College</a></li>
+  </ul>
+  <ul>
+    <li>Associate Degree in Art and General Studies</li>
+    <li>May, 2015</li>
+    <li><a href="http://www.southmountaincc.edu/" target="_blank">South Mountain Community College</a></li>
+  </ul>
+  <hr>
+  <h3>Work Experience</h3>
+  <table cellspacing="10">
+    <tbody>
+      <th>Amazon Inc</th>
+      <tr>
+        <td>2018 - Present</td>
+        <td><strong>NACF ACES Central Flow Lead</strong></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>
+          <ul>
+            <li>Piloted Network OSP(online Shift Planner) for AR fullfillment center</li>
+            <li>Coach and Trainer new associate in central flow team</li>
+            <li>Successfully manager outbount department workflow for different fullfillment types</li>
+            <li></li>
+          </ul>
+        </td>
+      <tr>
+        <td>2016-2018</td>
+        <td><strong>Amazon fullfillment Associate</strong></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>
+          <ul>
+            <li>PHX6 Transship Process guide during peak 2017</li>
+            <li>Train new amazon Associate on transship and dock department</li>
+            <li>Solve problems at the shipping and transship department</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>Business analyst</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Data analyst & modeling</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Database Developer</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Microsoft Excel</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Microsoft Access</td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Web Developer</td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+  </table>
+  <hr>
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="contact.html">My Contact</a>
+</body>
+
+</html>
